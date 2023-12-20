@@ -125,9 +125,9 @@ Create a django project amd a static folder containing a html folder, which in t
         </div>
     </body>
 </html>
-## Output:
-![Screenshot from 2023-12-21 01-28-14](https://github.com/Tomfx03/cover-page-design/assets/101335832/06c89865-bd6a-4ba9-b360-cea8714f39fd)
 
+## Output:
+![Screenshot from 2023-12-21 01-28-14](https://github.com/Tomfx03/cover-page-design/assets/101335832/c01f75e0-ac93-42a4-91ee-b2322785c508)
 
 ## Result:
 
